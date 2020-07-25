@@ -1,0 +1,6 @@
+$ mkdir DSiBashTestDir
+$ cd DSiBashTestDir
+$ mkdir textfiles
+$ mkdir zipfiles
+$ sudo chown -R <CurrentUsername> DSiBashTestDir
+
