@@ -1,4 +1,4 @@
-# DSi-Answer_of_The_Quetions
+# DSi-Answer_of_The_Questions
 
 
 About OOP Question 1 Solution:
